@@ -1,0 +1,17 @@
+.jumbotron {
+    background-image: url(../images/chilling-reign.jpg);
+    background-size: cover;
+    height: 75vh;
+}
+
+.font-carousel-h {
+    color: white;
+    background: #000;
+    font-weight: bold;
+}
+
+.font-carousel {
+    color: white;
+    background-color: black;
+    font-size: larger;
+}
